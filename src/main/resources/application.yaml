@@ -1,0 +1,13 @@
+myapp:
+  car1:
+    colour: "grey"
+    wheelsize: 13
+    weight: 933
+    brand: "Opel"
+    type: "Astra"
+  car2:
+    colour: "blue"
+    wheelsize: 19
+    weight: 1123
+    brand: "Volvo"
+    type: "V40"
