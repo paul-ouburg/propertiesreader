@@ -1,0 +1,13 @@
+myapp:
+  car1:
+    colour: "yellow"
+    wheelsize: 14
+    weight: 830
+    brand: "Kia"
+    type: "Picanto"
+  car2:
+    colour: "white"
+    wheelsize: 12
+    weight: 799
+    brand: "Peugeot"
+    type: "205"
